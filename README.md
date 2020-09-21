@@ -6,3 +6,5 @@ Changes the Android Manifest so it shows up as an SMS app b/c a🅱️droid 10 b
 app created by https://twitter.com/alfredbulbasaur
 
 i just fixed it up :)
+
+( obtained from https://github.com/ngreenan/p5imapp/releases )
