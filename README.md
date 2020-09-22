@@ -9,3 +9,5 @@ app created by https://twitter.com/alfredbulbasaur
 i just fixed it up :)
 
 ( obtained from https://github.com/ngreenan/p5imapp/releases )
+
+[click here to go the releases if ur lazy](https://github.com/CakeKing64/P5IM-android-10-fix/releases/tag/v2.3-a10)
